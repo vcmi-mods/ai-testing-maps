@@ -10,5 +10,9 @@
 	"changelog" :
 	{
 		"1.0.0" : [ "Initial public release"]
+	},
+	"czech" : {
+		"name": "VCMI mapy pro testování AI",
+		"description": "Následující mapy mohou být použity pro automatické testování VCAI nebo jiných implementací AI ve VCMI. Podrobné informace naleznete v souboru README.md."
 	}
 }
