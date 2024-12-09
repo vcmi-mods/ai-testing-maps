@@ -5,10 +5,15 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "https://forum.vcmi.eu/t/map-pack-for-automated-ai-testing/4566",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"modType" : "Test",
 	"changelog" :
 	{
+		"1.0.1" : [ "Czech translation by George King"],
 		"1.0.0" : [ "Initial public release"]
+	},
+	"czech" : {
+		"name": "VCMI mapy pro testování AI",
+		"description": "Následující mapy mohou být použity pro automatické testování VCAI nebo jakékoli jiné implementace AI ve VCMI. Podrobnosti naleznete v souboru README.md."
 	}
 }
