@@ -17,6 +17,10 @@ For all test maps there are rules I tried to stick to:
 * Maps with “A” suffix after sub id are alternative versions of same test. E.g original test might be checking result through victory condition and other through Quest Guard. This sometimes useful since AI isn’t always doing something we want while in other case it does.
 * All maps that require exact resources amounts take 99999 of all resources by Timed Event on start.
 
+## Docomentation
+
+Available at https://docs.google.com/document/d/1Dro_0GncWYp2KZCPQiEDiapOHViJobyYB3hkpF5CeKE/edit?tab=t.0
+
 ## Meaning of tags within map description
 
 For now maps are self-contained and map description could contan following “tags”. They inconsistent at times and can certainly be improved.
